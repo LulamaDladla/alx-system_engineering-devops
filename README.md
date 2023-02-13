@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Writing a script that prints the prints the absolute path name of current working directory 
+0x02. Shell, I/O Redirections and filters readme file
